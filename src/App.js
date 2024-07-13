@@ -1,7 +1,7 @@
 // App.js
 import React from "react";
-import BasketballPlayerCard from "./PlayerCard/BasketballPlayerCard";
-import playerImage from "./PlayerProfile/images/james.jpg";
+import BasketballPlayerCard from "./BasketballPlayerCard";
+import playerImage from "./james.jpg";
 
 const App = () => {
   const player = {
